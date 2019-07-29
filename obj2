@@ -1,0 +1,12 @@
+public class myobj2 {
+	int x=5;
+
+	public static void main(String[] args) {
+		myobj2 mybag=new myobj2();
+		System.out.println(mybag.x);
+		
+		
+
+	}
+
+}
